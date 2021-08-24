@@ -1,0 +1,10 @@
+Installation
+
+1. Extract "Spotify Crack by Zuptil.zip"
+2. Open "Spotify-Desktop_v1.1.22.633" folder
+3. Run "SpotifyFullSetup_v1.1.22.633.exe" and install Spotify
+4. Once Spotify opens proceed to close the application
+5. Run "SpotifyPatch.bat" 
+6. Open Spotify and login
+7. Enjoy ad-free music and podcasts
+
