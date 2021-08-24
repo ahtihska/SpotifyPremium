@@ -19,12 +19,13 @@ Modified version of Spotify, removes all on screen advertisements and advertisem
 ```Uninstall any previous version of Spotify already installed on your Desktop```
 
 ## Installation
-
- ```Extract "Spotify Crack by Zuptil.zip"
+```
+ Extract "Spotify Crack by Zuptil.zip"
  Open "Spotify-Desktop_v1.1.22.633" folder
  Run "SpotifyFullSetup_v1.1.22.633.exe" and install Spotify
  Once Spotify opens proceed to close the application
  Run "SpotifyPatch.bat" 
  Open Spotify and login
- Enjoy ad-free music and podcasts```
+ Enjoy ad-free music and podcasts
+ ```
 
