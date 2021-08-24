@@ -5,6 +5,7 @@
 
 ## Table of contents
 * [About](#about)
+* [Prerequisite](#prerequisite)
 * [Installation](#installation)
 
 
@@ -14,8 +15,10 @@ Modified version of Spotify, removes all on screen advertisements and advertisem
 
 ![image](https://cdn.discordapp.com/attachments/637326316487704630/879596588467617792/unknown.png)
 
-## Installation
+## Prerequisite
 ```Uninstall any previous version of Spotify already installed on your Desktop```
+
+## Installation
 
  ```Extract "Spotify Crack by Zuptil.zip"
  Open "Spotify-Desktop_v1.1.22.633" folder
